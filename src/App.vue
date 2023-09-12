@@ -17,7 +17,7 @@
             <router-link to="/about"> <i></i>兴趣技能</router-link>
           </li>
           <li>
-            <router-link to="/talk"> <i></i>留言板</router-link>
+            <router-link to="/talk"> <i></i>留言板块</router-link>
           </li>
           <li>
             <router-link to="/learn"> <i></i>学习资源</router-link>
